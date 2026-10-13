@@ -7,14 +7,14 @@
 ### Student Researchers
 
 - Minjoo Lee — Team Lead
-- [Name]
-- [Name]
-- [Name]
-- [Name]
+- Chaewon Seo
+- Ahyun Lee
+- Chaewon Lee
+- Seyoung Jeon
 
 ### Faculty Advisor
 
-- [Advisor's Name]
+- Jeongsoo Kim
 
 [View Research Poster](research-poster.pdf)
 
