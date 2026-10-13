@@ -1,5 +1,25 @@
 # Low-Cost Blood Diagnostic Kit Using Colorimetric Biomarker Analysis
 
+## Research Team
+
+**Hemosapiens**
+
+### Student Researchers
+
+- Minjoo Lee — Team Lead
+- [Name]
+- [Name]
+- [Name]
+- [Name]
+
+### Faculty Advisor
+
+- [Advisor's Name]
+
+[View Research Poster](research-poster.pdf)
+
+---
+
 ## Table of Contents
 
 - [1. Project Overview](#1-project-overview)
