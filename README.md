@@ -6,11 +6,40 @@
 
 ### Student Researchers
 
-- Minjoo Lee — Team Lead
-- Chaewon Seo
-- Ahyun Lee
-- Chaewon Lee
-- Seyoung Jeon
+#### Minjoo Lee — Team Lead · Image Analysis and Prediction
+
+- Coordinated the experimental workflow and data analysis across the team.
+- Developed an OpenCV sliding-window algorithm to locate the region with the lowest color variation and extract its mean RGB values.
+- Built a quadratic regression model linking RGB values to absorbance at 595 nm, followed by a calibration step to predict BSA concentration.
+- Developed a Streamlit app that automates RGB extraction and concentration prediction from uploaded images.
+- Performed spectrophotometric measurements, assessed plasma separation results, and organized spectral data as CSV files for model training.
+
+#### Chaewon Seo — Plasma Analysis and Experimental Design
+
+- Reviewed UV absorbance, the Beer–Lambert law, and HPLC methods to investigate drug concentration analysis in plasma.
+- Explored RGB-based concentration estimation using standard solutions and calibration curves.
+- Attempted plasma and blood-cell separation and color measurements, then adapted the experiment after equipment failure.
+- Redesigned measurement conditions to address potential interference from anticoagulant reagents.
+
+#### Ahyun Lee — Total Protein Analysis and Experiment Planning
+
+- Reviewed bilirubin analysis methods and reagent availability, then shifted to Bradford-based total protein analysis to match experimental constraints.
+- Measured absorbance and color changes in total protein experiments and participated in ALT- and ammonia-related experiments.
+- Organized experimental results and prepared visualizations.
+
+#### Chaewon Lee — ALP Analysis and Reference Data
+
+- Helped select total protein, ALP, and ammonia as target biomarkers and led the ALP experiments.
+- Investigated ALP physiology and reaction mechanisms and designed experiments based on the Bessey–Lowry method.
+- Prepared and diluted reagents and measured absorbance at 405 nm at 10 and 20 minutes after the ALP–pNPP reaction.
+- Collected concentration-dependent color data and constructed standard curves to support AI-based analysis.
+
+#### Seyoung Jeon — Ammonia Analysis and Reaction Conditions
+
+- Contributed to the diagnostic kit concept combining colorimetric reactions with RGB-based analysis.
+- Led reagent and buffer preparation and adjusted reaction conditions for salicylate-method experiments.
+- Prepared standard solutions, performed spectrophotometric measurements, and collected color data.
+- Contributed to the development of an RGB analysis app.
 
 ### Faculty Advisor
 
